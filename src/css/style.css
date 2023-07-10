@@ -53,6 +53,7 @@ body::before {
   flex-wrap: wrap;
   gap: 30px;
   justify-content: center;
+  cursor: pointer;
 }
 
 .lista-de-personagens .personagem img {
